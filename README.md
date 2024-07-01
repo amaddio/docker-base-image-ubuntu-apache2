@@ -11,4 +11,6 @@ docker stop ubuntu-apache2-container
 docker container rm my_test_container
 ```
 
+A helper Zsh script to rebuild and restart containers: rebuild_and_restart.zsh
+
 Browse the running container at http://localhost:80.
